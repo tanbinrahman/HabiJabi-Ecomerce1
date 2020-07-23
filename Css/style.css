@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.bgcolor{
+    background-color: #fceae8;
+    padding: 20px 30px;
+}
+.price{
+    color:#ff136f;
+}
+
+.container{
+    margin-bottom: 100px;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom , #ff5898 0% ,#ff136f 100%);
+    color:white;
+    padding: 10px 25px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: none;
+}
